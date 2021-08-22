@@ -5,6 +5,6 @@ exports.handler = async () => {
 
     return {
         code: 200,
-        body: JSON.stringify(data)';'
+        body: JSON.stringify(data)
     }
 }
